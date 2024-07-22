@@ -21,4 +21,4 @@ jobs:
         pip install lxml
 
     - name: Run script
-      run: python script.py
+      run: python .github/workflows/script
