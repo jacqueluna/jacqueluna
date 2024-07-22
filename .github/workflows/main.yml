@@ -21,4 +21,4 @@ jobs:
         pip install lxml
 
     - name: Run script
-      run: python ruta/a/tu/script.py
+      run: python script.py
