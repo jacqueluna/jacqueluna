@@ -3,7 +3,7 @@
   <nombre>Academia Ritmo</nombre>
   <web>http://www.acritmo.com</web>
   <cursos>
-<xi:include href="file:///C:/Users/jacqu/Downloads/UF2217_UD6_Actividad 17/UF2217_UD6_Actividad 17/cursosBarcelona.xml" parse="xml" />
+<xi:include href="cursosBarcelona.xml" parse="xml" />
 <xi:fallback>
 Lamentamos que no esté disponible el recurso, pero nos alegramos
 poder avisarle
