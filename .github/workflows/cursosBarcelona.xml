@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+   <curso id="RCATA">
+      <nombre>Rumba Catalana A</nombre>
+      <nivel>Avanzado</nivel>
+      <comienzo fecha="01/02/2015" />
+    </curso>
+    <curso id="RCATM">
+      <nombre>Rumba Catalana M</nombre>
+      <nivel>Medio</nivel>
+      <comienzo fecha="01/09/2014" />
+    </curso>
+    <curso id="RCATB">
+      <nombre>Rumba Catalana B</nombre>
+      <nivel>Bajo</nivel>
+      <comienzo fecha="10/09/2014" />
+    </curso>
